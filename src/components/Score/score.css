@@ -1,0 +1,35 @@
+.div5{
+    height: 450px;
+    width: 400px;
+    margin: auto;
+    margin-top: 5%;
+    border: 2px green solid;
+    text-align: center;
+}
+#first{
+    color: red;
+    font-size: 60px;
+    margin-top: 40%;
+    display: inline;
+}
+#score{
+    color: red;
+    font-size: 20px;
+}
+#btn1{
+    background-color: blue;
+    color: white;
+    border: 1px blue solid;
+    border-radius: 10px;
+    height: 60px;
+    width: 120px;
+    font-size: 25px;
+}
+#finish{
+    margin-right: 65%;
+    margin-top: 8%;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    color: white;
+}

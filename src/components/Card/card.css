@@ -1,0 +1,11 @@
+#card{
+background-color: grey;
+height: 100px;
+width: 130px;
+text-align:center;
+padding: 50px 0px 0px;
+margin-left: 183px;
+border: 2px green solid;
+margin-bottom: auto;
+}
+

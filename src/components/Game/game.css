@@ -1,0 +1,70 @@
+.div{
+    border: 2px green solid;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    margin-top: 4%;
+}
+.a{
+display: flex;
+justify-content: space-evenly;
+}
+.a1{
+    margin-right: auto;
+}
+#index{
+    border: 2px green solid;
+    background-color: yellowgreen;
+    text-align: center;
+    width: 60px;
+}
+
+#computer{
+    /* display: inline; */
+    text-align: left;
+    font-size: 35px;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+.a2{
+    margin-top: 3%;
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+#Score{
+    display: inline;
+    color: tomato;
+    margin-left: 10%;
+}
+#C-point{
+    
+    display: inline;
+    color: tomato;
+}
+#P-point{
+    display: inline;
+    color: tomato;
+    /* margin-left: 5%; */
+}
+
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+#player{
+    margin-right: 6%;
+    font-size: 35px;
+}
+#next{
+    height: 60px;
+    width: 130px;
+    margin-left: 3%;
+    margin-top: 5%;
+    border: 2px blue solid;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    border-radius: 15px;
+}
